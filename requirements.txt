@@ -1,8 +1,0 @@
-streamlit
-openai
-gtts
-langchain-google-genai
-python-dotenv
-PyPDF2
-python-docx
-pinecone-client
