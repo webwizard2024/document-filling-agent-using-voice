@@ -5,4 +5,4 @@ langchain-google-genai
 python-dotenv
 PyPDF2
 python-docx
-pinecone-client
+SpeechRecognition==3.9.0
